@@ -2,8 +2,7 @@
 
 This repository showcases an interactive **Power BI dashboard** created to analyze **sales and revenue performance** across multiple Indian markets, products, and customers.
 
-## 🧾 Overview
-
+## 🧾 Overvi
 The dashboard provides a detailed breakdown of:
 
 - 📍 **Revenue by market**  
