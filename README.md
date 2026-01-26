@@ -2,14 +2,14 @@
 
 This repository showcases an interactive **Power BI dashboard** created to analyze **sales and revenue performance** across multiple Indian markets, products, and customers.
 
-## 🧾 Overview
+##  Overview
 The dashboard provides a detailed breakdown of:
 
-- 📍 **Revenue by market**  
-- 📦 **Sales quantity by market**
-- 📈 **Revenue trend over time (2019)**
-- 🏪 **Top 5 customers**
-- 🛒 **Top 5 products by revenue**
+ **Revenue by market**  
+ **Sales quantity by market**
+ **Revenue trend over time (2019)**
+ **Top 5 customers**
+ **Top 5 products by revenue**
 
 ---
 
