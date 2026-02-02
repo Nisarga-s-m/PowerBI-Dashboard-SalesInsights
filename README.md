@@ -8,7 +8,7 @@ The dashboard provides a detailed breakdown of:
  **Revenue by market**  
  **Sales quantity by market**
  **Revenue trend over time (2019)**
- **Top 5
+ **Top 5 customers**
  **Top 5 products by revenue**
 
 ---
